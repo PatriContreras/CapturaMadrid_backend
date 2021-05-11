@@ -1,0 +1,16 @@
+POST http://localhost:3000/api/events
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImNhZHVjYSI6MTYyMDcyNzU4OSwiaWF0IjoxNjIwNzIzOTg5fQ.ppuRxDrRkZZMQQCdV1QWMVoL7iVcwCzmyy4jSoH3PFA
+Content-Type:  application/json
+
+{
+    "title": "Shooting CandyGirl",
+    "image": "imagen",
+    "place": "Madrid",
+    "model": "Patbubble",
+    "makeup": "Roro",
+    "price": 25,
+    "description": "super shooting con super modelo",
+    "complete": "",
+    "date": "2020-05-04",
+    "time": "23:00"
+}
